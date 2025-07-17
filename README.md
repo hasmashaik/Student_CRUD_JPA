@@ -38,23 +38,23 @@ This is a *Spring Boot CRUD application* to manage student records using *Spring
 
 ### ✅ Create Student
 
-![Create Student](screenshots/create_student.png)
+![Create Student](screenshots/create.png)
 
 ### 📋 Get All Students
 
-![Get All Students](screenshots/get_all_students.png)
+![Get All Students](screenshots/getAll.png)
 
 ### 🔍 Get Student By ID
 
-![Get Student By ID](screenshots/get_student_by_id.png)
+![Get Student By ID](screenshots/byId.png)
 
 ### 🔁 Update Student
 
-![Update Student](screenshots/update_student.png)
+![Update Student](screenshots/update.png)
 
 ### ❌ Delete Student
 
-![Delete Student](screenshots/delete_student.png)
+![Delete Student](screenshots/delete.png)
 
 ---
 
@@ -62,8 +62,7 @@ This is a *Spring Boot CRUD application* to manage student records using *Spring
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-crud-api.git
-   cd student-crud-api
+   git clone https://github.com/hasmashaik/Student_CRUD_JPA.git
 
 2.Set up MySQL Database:
 
